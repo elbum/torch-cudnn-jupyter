@@ -1,0 +1,5 @@
+librosa
+torchtext
+numpy
+matplotlib
+scikit-learn
